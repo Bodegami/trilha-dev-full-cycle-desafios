@@ -16,5 +16,5 @@ Repositório para desafios da trilha Full Cycle
 
 - <h3> Instale e execute o Docker.</h3>
 - <h3> Abra o terminal do sistema operacional.</h3>
-- <h3> Execute o comando: devbode/codeeducation</h3>
+- <h3> Execute o comando: docker run devbode/codeeducation</h3>
 
